@@ -1,4 +1,4 @@
-package app;
+package dz4;
 
 // Виправте цей клас ++
 public class Main {

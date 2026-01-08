@@ -1,4 +1,4 @@
-package app;
+package dz4;
 
 public class Customer {
 
