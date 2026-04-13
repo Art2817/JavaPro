@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="password-app" />
         <module name="password-generator" />
+        <module name="company" />
       </profile>
     </annotationProcessing>
   </component>
