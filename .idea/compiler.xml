@@ -10,6 +10,7 @@
         <module name="library" />
         <module name="password-app" />
         <module name="password-generator" />
+        <module name="coffee" />
       </profile>
     </annotationProcessing>
   </component>
