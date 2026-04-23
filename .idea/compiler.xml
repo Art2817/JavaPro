@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="company" />
         <module name="library" />
+        <module name="hibernate" />
         <module name="password-app" />
         <module name="password-generator" />
         <module name="coffee" />

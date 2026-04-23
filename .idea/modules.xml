@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaPro.iml" filepath="$PROJECT_DIR$/JavaPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate.iml" filepath="$PROJECT_DIR$/hibernate.iml" />
     </modules>
   </component>
 </project>
