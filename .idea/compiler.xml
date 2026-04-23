@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="company" />
+        <module name="library" />
         <module name="password-app" />
         <module name="password-generator" />
-        <module name="company" />
       </profile>
     </annotationProcessing>
   </component>
