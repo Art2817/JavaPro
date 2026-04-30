@@ -6,13 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="company" />
         <module name="library" />
-        <module name="hibernate" />
         <module name="password-app" />
         <module name="password-generator" />
         <module name="coffee" />
+        <module name="company" />
+        <module name="client-server" />
+        <module name="hibernate" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="client-server" options="--add-modules jdk.internal.le --add-exports jdk.internal.le/jdk.internal.org.jline.utils=ALL-UNNAMED" />
+    </option>
   </component>
 </project>
