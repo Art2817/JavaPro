@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  font-family: sans-serif;
+}
+
+.calc {
+  display: grid;
+  grid-template-columns:
+          repeat(4, 60px);
+  gap: 5px;
+  background: #163eb6;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+
+#d {
+  grid-column: span 4;
+  height: 40px;
+  text-align: right;
+  padding: 5px;
+  font-size: 20px;
+  border: 1px solid #ccc;
+}
+
+
+button {
+  height: 50px;
+  cursor: pointer;
+  border: none;
+  background: #fff;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #ddd;
+}
