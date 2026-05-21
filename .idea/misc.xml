@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/coffee/pom.xml" />
         <option value="$PROJECT_DIR$/hibernate/pom.xml" />
         <option value="$PROJECT_DIR$/client-server/pom.xml" />
+        <option value="$PROJECT_DIR$/orders-servlet/pom.xml" />
       </list>
     </option>
   </component>
