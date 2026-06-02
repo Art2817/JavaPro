@@ -14,6 +14,7 @@
         <module name="company" />
         <module name="client-server" />
         <module name="hibernate" />
+        <module name="customer" />
       </profile>
     </annotationProcessing>
   </component>
