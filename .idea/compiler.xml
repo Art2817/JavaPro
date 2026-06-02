@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="library" />
         <module name="shop" />
+        <module name="springData" />
         <module name="password-app" />
         <module name="password-generator" />
         <module name="coffee" />
@@ -25,6 +26,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="client-server" options="" />
       <module name="springBoot" options="-parameters" />
+      <module name="springData" options="-parameters" />
       <module name="springMVC" options="-parameters" />
     </option>
   </component>
